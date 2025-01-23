@@ -70,3 +70,31 @@ A **Tableau dashboard** was created to visually explore and present the findings
 
 You can view the Tableau dashboard [here](https://public.tableau.com/shared/JFK2JC9WY?:display_count=n&:origin=viz_share_link).
 
+# Airbnb Rental Data Analysis Project
+
+This project is organized into multiple thematic Jupyter notebooks to make the analysis more accessible and focused. Each file addresses a specific aspect of the Airbnb rental dataset, allowing users to explore targeted insights with ease.
+
+## 📂 Notebooks Overview
+
+### **01_Data_Overview_and_Cleaning.ipynb**
+- Overview of the dataset.
+- Data cleaning and preprocessing steps to ensure the dataset is ready for analysis.
+
+### **02_Rental_Pricing_Determinants.ipynb**
+- Identification of key factors influencing rental prices.
+- Correlation analysis and feature importance assessment to uncover pricing trends.
+
+### **03_Guest_Behavior_and_Preferences.ipynb**
+- Analysis of guest behavior and preferences.
+- Exploration of room type popularity and guest satisfaction trends.
+
+### **04_Geographic_Impact_on_Guest_Satisfaction_and_Pricing.ipynb**
+- Examination of the geographical impact on rental pricing and guest satisfaction.
+- Clustering and grouping techniques to extract actionable insights.
+
+### **Airbnb_price_determinants_project.ipynb**
+- A comprehensive notebook combining all aspects of the analysis into a single file.
+- Perfect for users looking to explore the full project holistically.
+
+## 🔍 Purpose
+By structuring the project into thematic notebooks, users can explore specific areas of interest while also having the option to review the complete analysis in a single notebook.
